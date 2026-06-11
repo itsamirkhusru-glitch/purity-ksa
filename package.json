@@ -1,35 +1,95 @@
 {
-  "name": "marketing",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vite dev --port 3000",
-    "build": "vite build"
+  "title": "Professional Cleaning & Facility Management Services in KSA",
+  "badge": "Trusted Facility Management in Saudi Arabia",
+  "description": "Purity for Maintenance and Cleaning (PMC) delivers comprehensive facility management, manpower supply, cleaning, and maintenance services across Jeddah and the Kingdom of Saudi Arabia.",
+  "primaryButtonText": "Request a Quotation",
+  "primaryButtonUrl": "/request-quote",
+  "secondaryButtonText": "Contact Us",
+  "secondaryButtonUrl": "/contact",
+  "stats": [
+    { "number": "10+", "label": "Years of Experience" },
+    { "number": "500+", "label": "Projects Completed" },
+    { "number": "200+", "label": "Professional Staff" },
+    { "number": "50+", "label": "Corporate Clients" }
+  ],
+  "about": {
+    "eyebrow": "About PMC",
+    "title": "Your Trusted Partner for Facility Excellence in Saudi Arabia",
+    "paragraphs": [
+      "Purity for Maintenance and Cleaning Co. (PMC) is a fully licensed Saudi facility management company headquartered in Jeddah.",
+      "Our team of skilled professionals delivers reliable, high-quality services tailored to the unique demands of the Saudi market."
+    ]
   },
-  "dependencies": {
-    "@tailwindcss/vite": "4.2.2",
-    "@tanstack/react-router": "1.168.22",
-    "@tanstack/react-start": "1.167.41",
-    "@tanstack/router-plugin": "1.167.22",
-    "highlight.js": "11.11.1",
-    "lucide-react": "0.576.0",
-    "react": "19.2.6",
-    "react-dom": "19.2.6",
-    "tailwindcss": "4.2.2",
-    "vite-tsconfig-paths": "6.1.1",
-    "zod": "4.3.6"
-  },
-  "devDependencies": {
-    "@netlify/vite-plugin-tanstack-start": "1.3.15",
-    "@tailwindcss/vite": "4.2.2",
-    "@types/node": "22.19.19",
-    "@types/react": "19.2.15",
-    "@types/react-dom": "19.2.3",
-    "@vitejs/plugin-react": "5.2.0",
-    "lucide-react": "0.576.0",
-    "tailwindcss": "4.2.2",
-    "typescript": "5.9.3",
-    "rimraf": "6.1.3",
-    "vite": "7.3.3"
+  "principles": [
+    {
+      "title": "Vision",
+      "description": "To be the leading integrated facility management company in Saudi Arabia, recognized for quality, reliability, and innovation."
+    },
+    {
+      "title": "Mission",
+      "description": "Delivering exceptional cleaning and maintenance services that enhance living and working environments across KSA."
+    },
+    {
+      "title": "Values",
+      "description": "Integrity, professionalism, customer satisfaction, and environmental responsibility guide everything we do."
+    },
+    {
+      "title": "Experience",
+      "description": "Over 10 years operating in the Saudi market with deep knowledge of local regulations and client expectations."
+    }
+  ],
+  "services": [
+    {
+      "title": "Manpower Supply",
+      "description": "Skilled and semi-skilled workforce for all your operational needs across KSA."
+    },
+    {
+      "title": "Cleaning Services",
+      "description": "Professional cleaning solutions for commercial, industrial, and residential properties."
+    },
+    {
+      "title": "Building Maintenance",
+      "description": "Comprehensive maintenance programs to keep your facilities in prime condition."
+    },
+    {
+      "title": "Facility Management",
+      "description": "End-to-end facility management ensuring smooth operations 24/7."
+    },
+    {
+      "title": "Glass & Facade Cleaning",
+      "description": "Specialized high-rise and facade cleaning using modern equipment and techniques."
+    },
+    {
+      "title": "Pest Control",
+      "description": "Safe and effective pest management services for all types of premises."
+    },
+    {
+      "title": "Deep Cleaning",
+      "description": "Thorough deep cleaning services to restore hygiene to the highest standards."
+    },
+    {
+      "title": "AC Maintenance",
+      "description": "Air conditioning maintenance, repair, and installation for all systems."
+    },
+    {
+      "title": "MEP Services",
+      "description": "Mechanical, electrical, and plumbing services by certified engineers."
+    }
+  ],
+  "industries": [
+    "Schools & Education",
+    "Corporate Offices",
+    "Hotels & Hospitality",
+    "Showrooms",
+    "Warehouses",
+    "Restaurants",
+    "Residential Buildings",
+    "Commercial Complexes"
+  ],
+  "contact": {
+    "phone": "+966 57 558 8881",
+    "email": "info@purity-ksa.com",
+    "address": "Gate B, Suite 404B, Bin Hamran Center, Jeddah, KSA",
+    "whatsappUrl": "https://wa.me/966575588881"
   }
 }
